@@ -1,0 +1,16 @@
+program Homework4;
+uses crt;
+var
+jalan,kota:string;no,kode:integer;
+begin
+clrscr;
+write ('Masukkan Jalan:');
+readln (jalan);
+write ('Masukkan No:');
+readln (No);
+write ('Masukkan Kota:');
+readln (kota);
+write ('Masukkan Kode:');
+readln (kode);
+writeln ('Alamat:jalan ', jalan,' No. ',No,' ',Kota,' ',kode);
+end.
