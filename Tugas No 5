@@ -1,0 +1,17 @@
+program Homework5;
+uses crt;
+begin
+clrscr;
+writeln ('Cara mengetatkan rantai pada motor:');
+writeln ('1. Siapkan alat-alat yang diperlukan seperti: Kunci pas sesuai baut motor,kunci roda(sesuaikan dengan ukuran motor),dan pelumas');
+writeln ('2. Parkirkan motor ditempat yang datar menggunakan standar tengah');
+writeln ('3. Lepaskan penutup rantai menggunakan kunci pas');
+writeln ('4. Kendurkan baut as ban belakang dengan menggunakan kunci roda ');
+writeln ('5. Pada bagian ban belakang lainnya, terdapat baut penyesuaian. Gunakan kunci pas untuk memutar baut tersebut. Putar searah jarum jam untuk mengetatkan rantai, dan putar berlawanan arah jarum jam untuk mengendurkannya.');
+writeln ('6. Sesuaikan ketegangan rantai pada motor');
+writeln ('7. Setelah ketagangan rantai sudah dirasa sesuai, kencangkan kembali baut as ban menggunakan kunci roda');
+writeln ('8. Setelah mengencangkan kembali baut, pastikan ban belakang pada motor dalam posisi lurus agar motor tidak cepat aus dan dapat berjalan dengan lurus ');
+writeln ('9. Pasang kembali penutup rantai menggunakan kunci pas');
+writeln ('10. Setelah selesai mengencangkan baut pada ban belakang, beri pelumas pada rantai untuk mengurangi gesekan dan terjaga keawetannya');
+writeln ('11. Mulailah uji coba pada motor yang sudah diketatkan rantainya tersebut.');
+end.
