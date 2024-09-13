@@ -1,0 +1,16 @@
+program Homework3;
+uses crt;
+var
+Nama,Alamat:string;Nim:longint;Kom:char;
+begin
+clrscr;
+write ('Masukkan nama anda:');
+readln (nama);
+write ('Masukkan NIM anda:');
+readln (NIM);
+write ('Masukkan Kom anda:');
+readln (Kom);
+write ('Masukkan alamat anda:');
+readln (alamat);
+writeln ('Halo, Nama saya ', Nama,', NIM saya ', NIm,', saya di kom ', kom,', alamat saya di ', alamat,', Salam kenal semua!');
+end.
