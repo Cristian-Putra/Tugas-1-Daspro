@@ -2,7 +2,6 @@ program Homework2;
 uses crt;
 begin
 clrscr;
-
 writeln ('Januari');
 writeln ('Februari');
 writeln ('Maret');
